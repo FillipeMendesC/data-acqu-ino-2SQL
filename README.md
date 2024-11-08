@@ -3,9 +3,11 @@ Modificação da api: https://github.com/BandTec/dat-acqu-ino para retirando a p
 
 ### Orientações
 Modifique os .env para a sua configuração do MySQL
+
 Mude o .end escolhido na linha 6
 
 Adicione ou remova dados de sensores na linha 45 para frente
+
 Mude o insert para a sua tabela na linha 49
 
 ### Instalação:
