@@ -1,0 +1,21 @@
+{
+  "name": "data-acqu-ino-2sql",
+  "version": "1.0.0",
+  "description": "Modificação da api data-acqu-ino retirando as funcionalidades de servidor.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "FillipeMendesC",
+  "contributors": [
+    "Eduardo Verri",
+    "Matheus Matos",
+    "MariseMiranda"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "serialport": "^10.4.0",
+    "dotenv": "^16.4.5"
+  }
+}
